@@ -1,0 +1,25 @@
+@import "tailwindcss";
+* {
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif !important;
+  font-weight: 500;
+
+}
+.font-bold {
+  font-weight: 700 !important;
+}
+
+.font-semibold{
+  font-weight: 600 !important;
+}
+.ant-form-item{
+  margin-bottom: 0 !important;
+}
+.ant-form-item-label{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+table{
+  border: 1px solid #e4e1e1;
+  margin-top: 20px;
+}
